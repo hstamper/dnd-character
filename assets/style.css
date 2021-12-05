@@ -12,7 +12,7 @@
   }
   
   body {
-    background-image: url(/Users/hilliardstamper/Desktop/Homework/dnd-character/assets/images.jpg);
+    background-image: url("assets/images/images.jpg");
     background-size: cover;
     max-width: 100%;
     background-repeat: no-repeat;
